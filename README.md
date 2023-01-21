@@ -1,5 +1,5 @@
 # RegLaunch
-(Please use the "Releases" link over on the right side of the GitHub page if you just want to download the EXE ------->
+(Please use the "Releases" link over on the right side of the GitHub page if you just want to download the ZIP (EXE/INI) --->
 
 Utility to Apply Registry Setting(s) only while a specified app is running (RetinaEngrave Registry Fix)
 
@@ -40,3 +40,5 @@ the program is run and the UNSET record specifies the data to be set AFTER the p
 As with any program that requires modification of the Registry, this program requires Administrator rights.  It can not be run from a
 user account which does not have these rights (as would be expected).  However, if it is being run from a user account which has the 
 appropriate rights, then it will automatically elevate the rights as needed (UAC permitting).
+
+NOTE that REGLAUNCH is compiled as a 32-bit app for backward compatibility (and is fully capable of updating a 64-Bit registry key)
