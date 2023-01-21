@@ -1,5 +1,5 @@
 # RegLaunch
-(Please use the "Releases" link over on the right side of the GitHub page if you just want to download the ZIP (EXE/INI) --->
+(Please use the "Releases" link over on the right side of the GitHub page if you just want the ZIP (EXE/INI) --->
 
 Utility to Apply Registry Setting(s) only while a specified app is running (RetinaEngrave Registry Fix)
 
